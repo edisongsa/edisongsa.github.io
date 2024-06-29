@@ -1,4 +1,4 @@
-<div style="background-color: #f0f8ff; padding: 20px; border-radius: 10px;">
+
 
 [Welcome to My GitHub Repository](https://edisongsa.github.io)
 
@@ -47,4 +47,3 @@ Feel free to reach out if you want to collaborate on a project, discuss data ana
 ## 📜 License
 This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-</div>
