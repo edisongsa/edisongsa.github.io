@@ -69,5 +69,6 @@ Thank you for visiting my repository! I look forward to connecting with fellow d
 
 ![Data Analytics Enthusiast](https://example.com/another-image.jpg) <!-- Replace with another image URL -->
 
+</div>
 
 
