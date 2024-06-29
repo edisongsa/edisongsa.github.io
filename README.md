@@ -1,6 +1,6 @@
 <div style="background-color: #f0f8ff; padding: 20px; border-radius: 10px;">
 
-# [Welcome to My GitHub Repository](https://edisongsa.github.io)
+[Welcome to My GitHub Repository](https://edisongsa.github.io)
 
 ## 👋 Introduction
 Hi there! I’m **[Your Name]**, a passionate data analytics enthusiast. I have a deep interest in uncovering insights from data and transforming them into actionable decisions. I enjoy working with large datasets, building predictive models, and visualizing data to tell compelling stories.
