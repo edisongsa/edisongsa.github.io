@@ -3,7 +3,7 @@
 [Welcome to My GitHub Repository](https://edisongsa.github.io)
 
 ## 👋 Introduction
-Hi there! I’m **[Your Name]**, a passionate data analytics enthusiast. I have a deep interest in uncovering insights from data and transforming them into actionable decisions. I enjoy working with large datasets, building predictive models, and visualizing data to tell compelling stories.
+Hi there! I’m Edison, a passionate data analytics enthusiast. I have a deep interest in uncovering insights from data and transforming them into actionable decisions. I enjoy working with large datasets, building predictive models, and visualizing data to tell compelling stories.
 
 ## 📊 About Me
 I am fascinated by the world of data analytics, and I am continuously learning new techniques and tools to enhance my skills. My goal is to use data to solve complex problems and make a significant impact in various domains, including finance, healthcare, and marketing.
@@ -11,12 +11,11 @@ I am fascinated by the world of data analytics, and I am continuously learning n
 ## 🔧 Skills
 - **Programming Languages:** Python, R, SQL
 - **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn
-- **Machine Learning:** Scikit-Learn, TensorFlow, Keras
 - **Data Processing:** Pandas, NumPy, SQL
-- **Other Tools:** Excel, Git, Jupyter Notebooks, Hadoop
+- **Other Tools:** Excel, Git, Jupyter Notebooks
 
 ## 📂 Projects
-- **📈 [Project 1: Sales Analysis](https://github.com/your-username/project1)**  
+- **📈 [Project 1: Sales Analysis](https://edisongsa.github.io/project1)**  
   Analyzed sales data to identify trends, seasonal patterns, and high-performing products. Used Python and Tableau for data analysis and visualization.
 
 - **📉 [Project 2: Customer Segmentation](https://github.com/your-username/project2)**  
